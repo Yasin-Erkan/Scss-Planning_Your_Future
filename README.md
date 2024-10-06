@@ -16,7 +16,7 @@ Course Listings: Users can browse through a list of available courses with detai
 Registration Form: A user-friendly registration form for interested participants to sign up for courses.
 Dynamic Navbar: Easy navigation to different sections of the website.
 Technologies Used
-HTML
-CSS
-Bootstrap
-JavaScript (for future enhancements)
+-HTML
+-CSS
+-Bootstrap
+-JavaScript (for future enhancements)
