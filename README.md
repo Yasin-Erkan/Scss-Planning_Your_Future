@@ -2,7 +2,8 @@
 Welcome to the Educational Course Website project! This project is designed to provide users with information about various courses, including course descriptions, schedules, and registration options. The website is developed using HTML, CSS, SCSS and Bootstrap for a responsive user experience.
 Welcome to the Educational Course Website project! This project is designed to provide users with information about various courses, including course descriptions, schedules, and registration options. The website is developed using HTML, CSS, and Bootstrap for a responsive user experience.
 ##DEMO
-(ScssProje-1-Planning-your-future--ezgif.com-video-to-gif.gif)
+![ScssProje-1-Planning-your-future--ezgif com-video-to-gif](https://github.com/user-attachments/assets/c954c591-0aa7-472b-8b9f-2645cab2e1f8)
+
 
 Table of Contents
 Features
